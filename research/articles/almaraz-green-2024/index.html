@@ -7,7 +7,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Pablo Almaraz">
-<meta name="description" content="I’m a one man band">
 
 <title>Robust Ecologies Lab</title>
 <style>
@@ -22,28 +21,64 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//files/favicon-512.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<script src="site_libs/quarto-contrib/iconify-2.0.0/iconify-icon.min.js"></script>
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../..//files/favicon-512.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-contrib/iconify-2.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -88,18 +123,20 @@ ga('send', {
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background: #CF5485;
+        background: #CF2547;
       }
 </style>
 
 
 <meta property="og:title" content="Robust Ecologies Lab">
+<meta property="og:description" content="The RELab is a one man band">
 <meta property="og:image" content="https://robustecologies.org/files/profiles/twitter-card-large.png">
 <meta property="og:site_name" content="Robust Ecologies Lab">
 <meta property="og:locale" content="en_US">
 <meta property="og:image:height" content="1257">
 <meta property="og:image:width" content="2401">
 <meta name="twitter:title" content="Robust Ecologies Lab">
+<meta name="twitter:description" content="The RELab is a one man band">
 <meta name="twitter:image" content="https://robustecologies.org/files/profiles/twitter-card-large.png">
 <meta name="twitter:creator" content="@andrewheiss">
 <meta name="twitter:site" content="@andrewheiss">
@@ -108,14 +145,14 @@ ga('send', {
 <meta name="twitter:image-width" content="2401">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="floating nav-fixed slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Robust Ecologies Lab</span>
     </a>
   </div>
@@ -126,11 +163,11 @@ ga('send', {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research/index.html"> 
+    <a class="nav-link" href="../../../research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
 </ul>
@@ -159,65 +196,188 @@ ga('send', {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
+<header id="title-block-header" class="quarto-title-block research default toc-left page-columns page-full">
+    <div class="quarto-title-banner page-columns page-full">
+                <div class="back-nav"><a href="../../../research/">← Back to research</a></div>
+                <div class="quarto-title column-body">
+            <h1 class="title">Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.</h1>
+
+            
+            
+                        <div class="haiku">
+                A volcano explodes,<br>a wildfowl community<br>looses wintering fidelity
+            </div>
+            
+                                    <div class="quarto-categories">
+                                <div class="quarto-category">Simulation</div>
+                                <div class="quarto-category">Bayes</div>
+                                <div class="quarto-category">Alternative stable states</div>
+                                <div class="quarto-category">Nonequilibrium</div>
+                                <div class="quarto-category">Regime shift</div>
+                                <div class="quarto-category">Catastrophe theory</div>
+                            </div>
+                                </div>
+    </div>
     
+        <div class="project-details">
+        <div class="publication-content">
+            <p><a href="http://robustecologies.org/"><strong>Pablo Almaraz</strong></a>, <a href="https://scholar.google.es/citations?user=wTg9HCcAAAAJ&amp;hl=es">Andy J. Green</a> Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation. <em>Biological Conservation</em> 291: 110466, doi: <a href="https://doi.org/10.1016/j.biocon.2024.110466"><code>10.1016/j.biocon.2024.110466</code></a></p>
+        </div>
+                <ul class="project-links">
+                        <li class="project-link">
+                <a href="https://doi.org/10.1016/j.biocon.2024.110466"><i class="fa-solid fa-scroll"></i> Final version</a>
+            </li>
+                        <li class="project-link">
+                <a href="https://github.com/palmaraz/GuadalShiftR"><i class="fa-brands fa-github"></i> Code</a>
+            </li>
+                        <li class="project-link">
+                <a href="https://zenodo.org/records/10637067"><i class="fas fa-z"></i> Zenodo</a>
+            </li>
+                        <li class="project-link">
+                <a href="https://www.zotero.org/save?type=doi&amp;q=10.1016/j.biocon.2024.110466"><i class="fas fa-book"></i> Add to Zotero</a>
+            </li>
+                    </ul>
+            </div>
+
+    
+    <div class="quarto-title-meta-author">
+      <div class="quarto-title-meta-heading">Authors</div>
+      <div class="quarto-title-meta-heading">Affiliations</div>
+      
+        <div class="quarto-title-meta-contents">
+        <p class="author"><a href="http://robustecologies.org">Pablo Almaraz</a> <a href="https://orcid.org/0000-0003-1416-2695" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      </div>
+      <div class="quarto-title-meta-contents">
+            <p class="affiliation">
+                ICMAN-CSIC
+              </p>
+          </div>
+        <div class="quarto-title-meta-contents">
+        <p class="author">Andy J. Green </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+            <p class="affiliation">
+                EBD-CSIC
+              </p>
+          </div>
+      </div>
+
+    <div class="quarto-title-meta">
+
+          
+        <div>
+        <div class="quarto-title-meta-heading">Published</div>
+        <div class="quarto-title-meta-contents">
+          <p class="date">May 2024</p>
+        </div>
+      </div>
+      
+        
+        <div>
+        <div class="quarto-title-meta-heading">Doi</div>
+        <div class="quarto-title-meta-contents">
+          <p class="doi">
+            <a href="https://doi.org/10.1016/j.biocon.2024.110466">10.1016/j.biocon.2024.110466</a>
+          </p>
+        </div>
+      </div>
+      </div>
+      
+
+    
+    <div class="quarto-title-meta-heading manual">Other details</div>
+    <div class="quarto-title-meta-contents">
+        <p class="publication-extra">
+            Part of the special issue <a href="https://www.sciencedirect.com/special-issue/10DNPT6S9QV">‘Non-equilibrium perspectives in biological conservation’</a>, edited by Sonia Kefi, Pierre Gaüzère and Daniel Oro
+        </p>
+    </div>
+    
+</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#open-code-and-data" id="toc-open-code-and-data" class="nav-link active" data-scroll-target="#open-code-and-data">Open code and data</a></li>
+  <li><a href="#important-links" id="toc-important-links" class="nav-link" data-scroll-target="#important-links">Important links</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#important-figure" id="toc-important-figure" class="nav-link" data-scroll-target="#important-figure">Important figure</a></li>
+  <li><a href="#data-and-code" id="toc-data-and-code" class="nav-link" data-scroll-target="#data-and-code">Data and code</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
-<style>
-  /* Imagen de fondo que ocupa toda la página */
-  body {
-    background-image: url('./files/ss1.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    color: #FFFFFF;
-    text-align: justify;
-  }
-
-  /* Centrar el título principal */
-  .title-centered {
-    text-align: center;
-    color: #FFFFFF;
-    font-size: 4rem;
-    margin-bottom: 30px; /* Espacio entre el título y el subtítulo */
-  }
-
-  /* Estilos para el subtítulo */
-  .subtitle {
-    font-size: 1.7rem; /* Ajusta el tamaño del subtítulo */
-    color: #FFFFFF; /* Cambia el color del subtítulo si es necesario */
-    text-align: center;
-    margin-top: 0; /* Espacio superior para el subtítulo */
-    margin-bottom: 20px; /* Espacio entre el subtítulo y el texto */
-  }
-
-  /* Estilos para el texto principal */
-  .main-text {
-    margin-top: 30px; /* Espacio entre el subtítulo y el texto */
-  }
-</style>
-
-<div class="title-centered">
-  Robust Ecologies Lab
+<section id="open-code-and-data" class="level2">
+<h2 class="anchored" data-anchor-id="open-code-and-data">Open code and data</h2>
+<div style="text-align: center;">
+<p><a href="https://github.com/palmaraz/GuadalShiftR" target="_blank"><img src="hexGuadalShiftR.png" class="img-fluid" width="300"></a></p>
 </div>
-
-<div class="subtitle">
-  Exploring how transiency begets persistence
+<div style="text-align: center;">
+<p><a href="https://doi.org/10.5281/zenodo.10637067" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10637067.svg" alt="DOI"></a></p>
 </div>
+</section>
+<section id="important-links" class="level2">
+<h2 class="anchored" data-anchor-id="important-links">Important links</h2>
+<ul>
+<li><a href="chaudhry-dotson-heiss-who-cares-crackdowns.pdf">Paper (preprint)</a></li>
+<li><a href="chaudhry-dotson-heiss-who-cares-crackdowns-appendix.pdf">Appendix (preprint)</a></li>
+<li><a href="https://stats.andrewheiss.com/who-cares-about-crackdowns/">Statistical analysis notebook</a></li>
+<li><a href="https://github.com/andrewheiss/who-cares-about-crackdown">GitHub repository</a></li>
+<li><a href="https://osf.io/hsbyd">Experiment preregistration</a> (research question #2)</li>
+</ul>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Ecological modeling has been traditionally dominated by a focus on the asymptotic behavior, but transient dynamics can have a profound effect on species and community persistence. We show a strong non-stationary coupling of ecological drivers in one of the world’s major Mediterranean ecosystems, Doñana wetlands, which is currently threatened by many stressors. Recurrent changes in precipitation fluctuations triggered sudden reorganizations in community trends and population dynamics of a guild of ten wintering waterfowl species during a 36-year period. An anomalously dry and cold transient period in the Northern Hemisphere, induced by the volcanic eruption of Mt. Pinatubo in 1991, prompted an abrupt shift to an alternative regime of fluctuating species densities. Most species did not recover previous values even though local weather patterns and large-scale climatic conditions returned to normal values. Although the dynamical stability of the community is similar in both regimes, structural stability declined: the probability of feasibility dropped across time due to depressed population densities at equilibrium. A stochastic cusp catastrophe model fitted to the time series data suggests that the spatio-temporal persistence of cold and dry conditions in the wintering areas, coupled with warm and wet conditions in the breeding grounds, modulated local ecological conditions and induced hysteresis through behavioral shifts to alternative wintering sites. Our study provides empirical evidence for the existence of a catastrophic bifurcation triggered by a tipping point in the dynamics of an imperiled vertebrate community, highlighting the relevance of history and multi-stability in explaining current patterns in biological conservation.</p>
+</section>
+<section id="important-figure" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="important-figure">Important figure</h2>
+<p>Figure : Diagram depicting the three-dimensional representation of the stochastic cusp catastrophe model</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="Cusp_diagram_grabs.png" class="img-fluid figure-img" width="600"></p>
+<figcaption class="margin-caption">Figure : Diagram depicting the three-dimensional representation of the stochastic cusp catastrophe model</figcaption>
+</figure>
+</div>
+</section>
+<section id="data-and-code" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-code">Data and code</h2>
+<p>The project is reproducible with R code <a href="https://github.com/palmaraz/GuadalShiftR">available at GitHub</a> and <a href="https://zenodo.org/records/10637067">Zenodo</a>. Follow <a href="https://github.com/palmaraz/GuadalShiftR">the instructions there</a> to install all supporting files and R packages.</p>
+<p>This project includes the following data files:</p>
+<ul>
+<li><a href="https://github.com/palmaraz/GuadalShiftR"><strong><code>data/raw_data/</code></strong></a>: Running <code>targets::tar_make(survey_results_file)</code> will download the <code>.rds</code> file from OSF and place it in <code>data/raw_data</code>.</li>
+</ul>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&amp;q=10.1016/j.biocon.2024.110466"><i class="ai  ai-zotero" title="" style="color:"></i> Add to Zotero <i class="fa-solid fa-square-arrow-up-right" aria-label="square-arrow-up-right"></i></a>
+</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">Almaraz2024</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="dt">title</span> = {Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="dt">volume</span> = {291},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>    <span class="dt">issn</span> = {00063207},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="dt">url</span> = {https://linkinghub.elsevier.com/retrieve/pii/S0006320724000272},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>    <span class="dt">doi</span> = {10.1016/j.biocon.2024.110466},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="dt">pages</span> = {110466},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="dt">journaltitle</span> = {Biological Conservation},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="dt">author</span> = {Almaraz, Pablo and Green, Andy J},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="dt">date</span> = {2024-03}</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<!-- Any persisting collection of *agents* that interact with each other and *feedback* on their *environment* face the same problem: how to cope with *fluctuations* while maintaining long-term *integrity*. This is true whether the collection of agents refers to stem cells undergoing differentiation during development ... I call this ecologies. I try to escape the curse of reification.  -->
-<!-- In our lab, we focus on: -->
-<!-- - **Transiency**: How systems avoid vanishing while flowing in a permanent transient state. -->
-<!-- - **Feedback loops**: How interactions between agents and their environment shape persistence. -->
-<!-- - **Robustness**: The ability of systems to mantain integrity amisdt fluctuations. -->
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -647,7 +807,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2024 RELab <span class="faux-block"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> Creative Commons CC BY-NC-SA 4.0</a></span></span></p>
 </div>   
     <div class="nav-footer-center">
-<p><span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0003-1416-2695">0000-0003-1416-2695</a></span> <span class="faux-block"><i class="fa-solid fa-key" aria-label="key"></i> <a href="pgpk.txt">PGP public key</a></span></p>
+<p><span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0003-1416-2695">0000-0003-1416-2695</a></span> <span class="faux-block"><i class="fa-solid fa-key" aria-label="key"></i> <a href="../../../pgpk.txt">PGP public key</a></span></p>
 </div>
     <div class="nav-footer-right">
 <p><span class="faux-block">Made with <a href="https://cran.r-project.org/"><i class="fa-brands fa-r-project" aria-label="r-project"></i></a> and <a href="https://quarto.org/">Quarto</a></span> <span class="faux-block"><a href="https://github.com/palmaraz">View the source at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></span></p>

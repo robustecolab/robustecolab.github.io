@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/07/08/fun-with-positron/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/almaraz-green-2024/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  }
+]

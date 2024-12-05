@@ -4,6 +4,223 @@
     "href": "index.html",
     "title": "Robust Ecologies Lab",
     "section": "",
-    "text": "Robust Ecologies Lab\n\n\nAny persisting collection of agents that interact with each other and feedback on their environment face the same problem: how to cope with fluctuations while mantaining long-term integrity."
+    "text": "Robust Ecologies Lab\n\n\n\n  Exploring how transiency begets persistence"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            July 8, 2024\n        \n        \n            Fun with Positron\n\n            \n            \n                \n                \n                    r\n                \n                \n                \n                    python\n                \n                \n                \n                    positron\n                \n                \n                \n                    data science\n                \n                \n            \n            \n\n            Combine the best of RStudio and Visual Studio Code in Posit's new Positron IDE\n            \n            \n            10.59350/zs7da-17c67\n            \n        \n        \n        \n            \n\n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "This page contains the source code, links, and slides for various workshops, talks, lectures, and presentations I’ve given. Research presentations given at conferences are typically stored in their respective repositories on GitHub; one-off workshops and talks can all be found in a catch-all GitHub repository."
+  },
+  {
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Talks",
+    "section": "2024",
+    "text": "2024\n\n\n\n    \n    \n                  \n            April 25, 2024\n        \n        \n            Move beyond OLS! An introduction to Poisson, Beta, and zero-inflated Beta Bayesian distributional regression models\n            Workshop presented at the Department of Agronomy at Kansas State University | Manhattan, Kansas (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site and materials\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            March 21, 2024\n        \n        \n            Be curious, not judgmental: Creating a welcoming learning environment through radical transparency and judgment-free curiosity\n            Workshop for Posit Academy's \"Mentors on Mentoring\" series\" | Online\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-1",
+    "href": "talks/index.html#section-1",
+    "title": "Talks",
+    "section": "2022",
+    "text": "2022\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-2",
+    "href": "talks/index.html#section-2",
+    "title": "Talks",
+    "section": "2021",
+    "text": "2021\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-3",
+    "href": "talks/index.html#section-3",
+    "title": "Talks",
+    "section": "2020",
+    "text": "2020\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-4",
+    "href": "talks/index.html#section-4",
+    "title": "Talks",
+    "section": "2019",
+    "text": "2019\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-5",
+    "href": "talks/index.html#section-5",
+    "title": "Talks",
+    "section": "2018",
+    "text": "2018\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-6",
+    "href": "talks/index.html#section-6",
+    "title": "Talks",
+    "section": "2016",
+    "text": "2016\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-7",
+    "href": "talks/index.html#section-7",
+    "title": "Talks",
+    "section": "2015",
+    "text": "2015\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-8",
+    "href": "talks/index.html#section-8",
+    "title": "Talks",
+    "section": "2014",
+    "text": "2014\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-9",
+    "href": "talks/index.html#section-9",
+    "title": "Talks",
+    "section": "2013",
+    "text": "2013\n\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/articles/almaraz-green-2024/index.html#important-links",
+    "href": "research/articles/almaraz-green-2024/index.html#important-links",
+    "title": "Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.",
+    "section": "Important links",
+    "text": "Important links\n\nPaper (preprint)\nAppendix (preprint)\nStatistical analysis notebook\nGitHub repository\nExperiment preregistration (research question #2)"
+  },
+  {
+    "objectID": "research/articles/almaraz-green-2024/index.html#abstract",
+    "href": "research/articles/almaraz-green-2024/index.html#abstract",
+    "title": "Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.",
+    "section": "Abstract",
+    "text": "Abstract\nEcological modeling has been traditionally dominated by a focus on the asymptotic behavior, but transient dynamics can have a profound effect on species and community persistence. We show a strong non-stationary coupling of ecological drivers in one of the world’s major Mediterranean ecosystems, Doñana wetlands, which is currently threatened by many stressors. Recurrent changes in precipitation fluctuations triggered sudden reorganizations in community trends and population dynamics of a guild of ten wintering waterfowl species during a 36-year period. An anomalously dry and cold transient period in the Northern Hemisphere, induced by the volcanic eruption of Mt. Pinatubo in 1991, prompted an abrupt shift to an alternative regime of fluctuating species densities. Most species did not recover previous values even though local weather patterns and large-scale climatic conditions returned to normal values. Although the dynamical stability of the community is similar in both regimes, structural stability declined: the probability of feasibility dropped across time due to depressed population densities at equilibrium. A stochastic cusp catastrophe model fitted to the time series data suggests that the spatio-temporal persistence of cold and dry conditions in the wintering areas, coupled with warm and wet conditions in the breeding grounds, modulated local ecological conditions and induced hysteresis through behavioral shifts to alternative wintering sites. Our study provides empirical evidence for the existence of a catastrophic bifurcation triggered by a tipping point in the dynamics of an imperiled vertebrate community, highlighting the relevance of history and multi-stability in explaining current patterns in biological conservation."
+  },
+  {
+    "objectID": "research/articles/almaraz-green-2024/index.html#important-figure",
+    "href": "research/articles/almaraz-green-2024/index.html#important-figure",
+    "title": "Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.",
+    "section": "Important figure",
+    "text": "Important figure\nFigure : Diagram depicting the three-dimensional representation of the stochastic cusp catastrophe model\n\n\n\nFigure : Diagram depicting the three-dimensional representation of the stochastic cusp catastrophe model"
+  },
+  {
+    "objectID": "research/articles/almaraz-green-2024/index.html#data-and-code",
+    "href": "research/articles/almaraz-green-2024/index.html#data-and-code",
+    "title": "Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.",
+    "section": "Data and code",
+    "text": "Data and code\nThe project is reproducible with R code available at GitHub and Zenodo. Follow the instructions there to install all supporting files and R packages.\nThis project includes the following data files:\n\ndata/raw_data/: Running targets::tar_make(survey_results_file) will download the .rds file from OSF and place it in data/raw_data."
+  },
+  {
+    "objectID": "research/articles/almaraz-green-2024/index.html#citation",
+    "href": "research/articles/almaraz-green-2024/index.html#citation",
+    "title": "Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation.",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{Almaraz2024,\n    title = {Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation},\n    volume = {291},\n    issn = {00063207},\n    url = {https://linkinghub.elsevier.com/retrieve/pii/S0006320724000272},\n    doi = {10.1016/j.biocon.2024.110466},\n    pages = {110466},\n    journaltitle = {Biological Conservation},\n    author = {Almaraz, Pablo and Green, Andy J},\n    date = {2024-03}\n}"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Robust Ecologies Lab",
+    "section": "",
+    "text": "In construction …"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Robust Ecologies Lab",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n\n    \n        \n            \n                Pablo Almaraz, Andy J. Green Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation. Biological Conservation 291: 110466, doi: 10.1016/j.biocon.2024.110466\n            \n\n            \n            \n                \n                    \n                            Simulation\n                        \n                    \n                    \n                            Bayes\n                        \n                    \n                    \n                            Alternative stable states\n                        \n                    \n                    \n                            Nonequilibrium\n                        \n                    \n                    \n                            Regime shift\n                        \n                    \n                    \n                            Catastrophe theory\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                A volcano explodes,\n            \n                 / a wildfowl community\n            \n                 / looses wintering fidelity\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Zenodo\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#book-chapters",
+    "href": "research/index.html#book-chapters",
+    "title": "Robust Ecologies Lab",
+    "section": "Book chapters",
+    "text": "Book chapters\n\n\n\n    \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Data Visualization with R \n                \n            \n            \n                PMAP 8551/4551 | \n                Georgia State University\n                \n            \n            Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data\n\n            \n                \n                \n                 Fall 2024 (asynchronous online)\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Comparative Public Administration \n                \n            \n            \n                PMAP 8441/4441 | \n                Georgia State University\n                \n            \n            Explore how the public and nonprofit sectors work around the world and learn how political institutions shape government and civil society\n\n            \n                \n                \n                 Fall 2024\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "Data Visualization with R \n                \n            \n            \n                PMAP 8551/4551 | \n                Georgia State University\n                \n            \n            Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data\n\n            \n                \n                \n                 Fall 2024 (asynchronous online)\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Comparative Public Administration \n                \n            \n            \n                PMAP 8441/4441 | \n                Georgia State University\n                \n            \n            Explore how the public and nonprofit sectors work around the world and learn how political institutions shape government and civil society\n\n            \n                \n                \n                 Fall 2024\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-1",
+    "href": "teaching/index.html#section-1",
+    "title": "Teaching",
+    "section": "2023–24",
+    "text": "2023–24\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-2",
+    "href": "teaching/index.html#section-2",
+    "title": "Teaching",
+    "section": "2022–23",
+    "text": "2022–23\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-3",
+    "href": "teaching/index.html#section-3",
+    "title": "Teaching",
+    "section": "2021–22",
+    "text": "2021–22\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-4",
+    "href": "teaching/index.html#section-4",
+    "title": "Teaching",
+    "section": "2020–21",
+    "text": "2020–21\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-5",
+    "href": "teaching/index.html#section-5",
+    "title": "Teaching",
+    "section": "2019–20",
+    "text": "2019–20\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-6",
+    "href": "teaching/index.html#section-6",
+    "title": "Teaching",
+    "section": "2017–19",
+    "text": "2017–19\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-7",
+    "href": "teaching/index.html#section-7",
+    "title": "Teaching",
+    "section": "2007–15",
+    "text": "2007–15\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2024/07/08/fun-with-positron/index.html",
+    "href": "blog/2024/07/08/fun-with-positron/index.html",
+    "title": "Fun with Positron",
+    "section": "",
+    "text": "At the end of June 2024, Posit released a beta version of its next-generation IDE for data science: Positron. This follows Posit’s general vision for language-agnostic data analysis software: RStudio PBC renamed itself to Posit PBC in 2022 to help move away from a pure R focus, and Quarto is pan-lingual successor to R Markdown. Having the name of the main programming language in the title of things is out—providing more general tools is in.\nPositron is essentially a specialized version of Microsoft’s Visual Studio Code, and is a fork of the underlying Code - OSS that powers VS Code. I’m super excited about this—in my own work, I use RStudio for most things R-related and VS Code for everything else (Stan, Python, HTML, CSS, Lua, LaTeX, Typst, etc.). VS Code is phenomenal and I love using it. It’s the best way to edit files on a remote server. It’s the best way to interact with Docker containers and Docker Compose. GitHub Copilot Chat is fantastic.\nBut for me, it’s never quite been a replacement for RStudio. Every couple months, I play around with trying to use VS Code for R work full time, but the constellation of VS Code R extensions (like the R extension and Radian for the terminal) and general R support has never been what I want, and I always end up going back to RStudio. Which is fine! I adore RStudio too and have been using it since it first came out in beta in February 2011 (13 years!).\nPositron brings pretty much all the little R-related things that I love from RStudio and have missed in Visual Studio Code. The regular collection of VS Code’s R extensions and add-ons is no longer necessary, since Posit has created a custom R kernel—Ark—for any text editor or IDE with Jupyter support. It’s still a beta product and a little rough around the edges, but I’ve found that it really is the perfect blend of the best parts of RStudio and VS Code.\nBelow, following the example of Marc Dotson and Christopher Kenny, I want to highlight some of the neat new things Positron can do and share some of the settings, extensions, and other customizations I’ve been using for the past couple weeks.\n\nSome cool new things\nPositron brings RStudio’s best features to other languages like Python, like line-by-line code execution:\n\nLine-by-line execution in PythonLine-by-line execution in R\n\n\n\n  \n\n\n\n\n  \n\n\n\n\n…and the variables panel (equivalent to the Environment panel in RStudio):\n\nVariables panel in PythonVariables panel in R\n\n\n\n\n\nVariables panel in Python\n\n\n\n\n\n\n\nVariables panel in R\n\n\n\n\n\nYou can also switch between different R and Python installations and versions. If you have rig installed, you can switch between different R versions, and Positron scans your computer at startup to find all the different Python virtual environments you have. I think eventually that little menu might also have better support for {renv} too. Here I can switch between R 4.4.0 and 4.3.3, as well as a bunch of random Python virtual environments and installations (lol python installations are the worst):\n\n\n\nVersion switcher\n\n\nPlus, since it’s just a fancy version of VS Code, Positron supports pretty much everything VS Code can do, including making complex layouts. Use the little menu in the top right corner to set up your workspace however you want:\n\n\n\nCustomize layout\n\n\nFor instance, here’s an example of a fully armed and operational layout I’ve been using for one project:\n\n\n\n\nFull ultrawide workspace\n\n\n\n\n\nMy settings\n\n\n\n\n\n\nHow to change settings in Positron / VS Code\n\n\n\n\n\nPositron (and VS Code in general) stores all its settings in a JSON file named settings.json that’s stored somewhere on your computer. On macOS it’s in ~/Library/Application Support/Positron/User/settings.json (see here for other operating systems). But you don’t need to ever remember that!\nWhen you open Positron’s settings (with ⌘, on a Mac; using… something… on Windows), Positron provides a nice frontend for searching, managing, and changing settings so you don’t need to edit raw JSON if you don’t want to.\n\n\n\n\n\n\nIf you click on the document button in the top right corner, you can open the actual settings.json file in the editor and make changes there. This is the easiest way to share settings with other people (like in this blog post) or with yourself (you can commit settings.json to a git repository, for instance).\n\n\n\n\n\n\n\n\n\nPositron settings pagePositron Configuring and customizing Positron involved basically copying most of my settings from VS Code’s settings.json into Positron’s settings.json. Here’s everything I have set up, with comments explaining stuff. A few things to note in particular:\n\nI set rstudio.keymap.enable to true to enable most of RStudio’s R-related keyboard shortcuts (like ⌘⌥I for a new chunk, ⌥- to insert &lt;-, etc.).\nI’m using GitHub’s Monaspace font because it looks neat and it has excellent font ligatures. I’ve enabled a bunch of different stylistic sets for the ligatures.\nI’m a big fan of the Monokai color theme and use it in RStudio and VS Code. It’s easy enough to set in Positron too, but for mysterious unknown reasons, it uses colors differently and is overly aggressive in what gets colorized. Compare this ggplot code across three different Monokais (VS Code, Positron, and RStudio). The Positron version is incredibly green and pink, while VS Code and RStudio use color more sparingly.\n\n\n\nMonokai highlighting in VS Code, Positron, and RStudio + Positron Dark\n\n\nSo for now, I’m using the Positron Dark theme instead, which does the best job of highlighting the things that RStudio did. It’s nice enough.\n\nHere’s my settings.json file. Adapt from it however you want. All these settings are also accessible in the GUI too.\n\n\n\nGUI for enabling RStudio keymapping\n\n\nThere are some extension-specific options at the bottom that I’ll explain below too.\n\n\nsettings.json\n\n{\n    // Positron-specific settings\n    // -------------------------------------------------------------------------\n    \"rstudio.keymap.enable\": true,\n    \"python.defaultInterpreterPath\": \"/opt/homebrew/bin/python\",\n\n\n    // Editor settings\n    // -------------------------------------------------------------------------\n    // Fonts\n    // Use GitHub's Monaspace (https://github.com/githubnext/monaspace) and enable ligatures\n    \"editor.fontFamily\": \"'Monaspace Argon Var'\",\n    \"editor.fontSize\": 12.5,\n    \"editor.fontLigatures\": \"'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig', 'liga'\",\n\n    // Theme\n    // Monakai would be nice, but it has issues in Positron\n    // \"workbench.colorTheme\": \"Monokai\",\n    \"workbench.colorTheme\": \"Default Dark Modern\",\n\n    // Use nicer icons\n    \"workbench.productIconTheme\": \"fluent-icons\",\n    \"workbench.iconTheme\": \"material-icon-theme\",\n\n    // Highlight modified/unsaved tabs\n    \"workbench.editor.highlightModifiedTabs\": true,\n\n    // Add some rulers\n    \"editor.rulers\": [\n        80,\n        100\n    ],\n\n    // Indent with two spaces, but only for R\n    \"[r]\": {\n        \"editor.tabSize\": 2\n    },\n\n    // Nicer handling of end-of-document newlines, via\n    // https://rfdonnelly.github.io/posts/sane-vscode-whitespace-settings/\n    \"files.insertFinalNewline\": true,\n    \"editor.renderFinalNewline\": \"dimmed\",\n    \"editor.renderWhitespace\": \"trailing\",\n    \"files.trimFinalNewlines\": true,\n    \"files.trimTrailingWhitespace\": true,\n\n    // Various editor settings\n    \"editor.formatOnPaste\": true,\n    \"editor.detectIndentation\": false,\n    \"editor.showFoldingControls\": \"always\",\n    \"window.newWindowDimensions\": \"inherit\",\n    \"editor.scrollBeyondLastLine\": false,\n    \"window.title\": \"${activeEditorFull}${separator}${rootName}\",\n    \"editor.tabSize\": 4,\n    \"editor.wordWrap\": \"on\",\n    \"editor.multiCursorModifier\": \"ctrlCmd\",\n    \"editor.snippetSuggestions\": \"top\",\n\n    // Hide things from the global search menu and watcher\n    \"files.exclude\": {\n        \"**/.Rhistory\": true,\n        \"**/.Rproj\": true,\n        \"**/.Rproj.user\": true,\n        \"**/renv/library\": true,\n        \"**/renv/local\": true,\n        \"**/renv/staging\": true\n    },\n    \"files.watcherExclude\": {\n        \"**/.Rproj/*\": true,\n        \"**/renv/library\": true,\n        \"**/renv/local\": true,\n        \"**/renv/staging\": true\n    },\n\n    // Sign git commits\n    \"git.enableCommitSigning\": true,\n\n\n    // Extension-specific settings\n    // -------------------------------------------------------------------------\n    // Markdown linting settings (idk if this stuff even works with Quarto though)\n    \"markdownlint.config\": {\n        \"default\": true,\n        \"MD012\": { \"maximum\": 2 },\n        \"MD025\": false,\n        \"MD041\": false\n    },\n\n    // Wrap at 80 columns with the \"Rewrap\" extension\n    \"rewrap.wrappingColumn\": 80,\n\n    // Hacky \"Open Remote - SSH\" settings\n    \"remote.SSH.serverDownloadUrlTemplate\": \"https://github.com/gitpod-io/openvscode-server/releases/download/openvscode-server-v${version}/openvscode-server-v${version}-${os}-${arch}.tar.gz\",\n    \"remote.SSH.experimental.serverBinaryName\": \"openvscode-server\",\n\n    // Don't phone home for the \"YAML\" extension\n    \"redhat.telemetry.enabled\": false,\n}\n\n\n\nMy keyboard shortcuts\n\n\n\n\n\n\nHow to change keyboard shortcuts in Positron / VS Code\n\n\n\n\n\nChanging keyboard shortcuts is just like changing settings. All the settings are stored in a JSON file (keybindings.json) located in a special folder on your computer, but you don’t have to work with raw JSON if you don’t want to.\nThe easiest way to get to the keyboard shortcut settings page is to open the Command Palette (⌘⇧P on macOS; ctrl + shift + p on Windows) and search for “Open Keyboard Shortcuts”:\n\n\n\n\n\n\nThis will give you a nice page for changing different settings. There are hundreds of possible shortcuts, but there’s a nice filtering system you can use to narrow things down.\n\n\n\n\n\n\nIf you click on the little document icon at the top, it will open the actual JSON file, just like with settings.json:\n\n\n\n\n\n\n\n\n\nAccessing keyboard shortcuts from the Command PaletteKeyboard shortcut editorKeyboard shortcuts as JSONEnabling Positron’s RStudio Keymap option with rstudio.keymap.enable takes care of like 90% of my keyboard customization needs. Years ago when I first switched to VS Code, I changed several of RStudio’s keyboard shortcuts to match VS Code’s like ⌘/ for toggling commented code instead of RStudio’s default ⌘⇧C. Positron uses ⌘/ by default for comment toggling too, but when you enable the RStudio Keymap option, that gets overridden with ⌘⇧C, so I disable that.\nRStudio also uses ⌘D for deleting a line, while VS Code uses it for adding text to a selection (i.e. if I select the word “the” in this document and then press ⌘D a bunch of times, it’ll add all those “the”s to the selection). The RStudio Keymap option adds ⌘D to delete the current line, so I disable that shortcut too to bring things back in line with standard VS Code.\nFinally, I use iTerm2 for macOS for my systemwide terminal, and I have it configured with a global hotkey ^` so I can access the terminal from everywhere. This conflicts with VS Code’s and Positron’s terminal toggling shortcut, which is the same, so I change it to be ^⇧`.\nHere’s my keybindings.json file. Like with settings.json, these are also accessible in the GUI.\n\n\n\nCustom keyboard shortcuts\n\n\n\n\nkeybindings.json\n\n[\n    {\n        \"key\": \"ctrl+alt+`\",\n        \"command\": \"workbench.action.terminal.new\",\n        \"when\": \"terminalProcessSupported || terminalWebExtensionContributedProfile\"\n    },\n    {\n        \"key\": \"ctrl+shift+`\",\n        \"command\": \"-workbench.action.terminal.new\",\n        \"when\": \"terminalProcessSupported || terminalWebExtensionContributedProfile\"\n    },\n    {\n        \"key\": \"ctrl+shift+`\",\n        \"command\": \"workbench.action.terminal.toggleTerminal\",\n        \"when\": \"terminal.active\"\n    },\n    {\n        \"key\": \"ctrl+`\",\n        \"command\": \"-workbench.action.terminal.toggleTerminal\",\n        \"when\": \"terminal.active\"\n    },\n    {\n        \"key\": \"shift+cmd+c\",\n        \"command\": \"-editor.action.commentLine\",\n        \"when\": \"config.rstudio.keymap.enable && editorTextFocus\"\n    },\n    {\n        \"key\": \"alt+cmd+q\",\n        \"command\": \"rewrap.rewrapComment\",\n        \"when\": \"editorTextFocus\"\n    },\n    {\n        \"key\": \"alt+q\",\n        \"command\": \"-rewrap.rewrapComment\",\n        \"when\": \"editorTextFocus\"\n    },\n    {\n        \"key\": \"cmd+d\",\n        \"command\": \"-editor.action.deleteLines\",\n        \"when\": \"config.rstudio.keymap.enable && editorTextFocus\"\n    }\n]\n\n\n\nMy extensions\n\n\n\n\n\n\nHow to install extensions in Positron / VS Code\n\n\n\n\n\nInstalling extensions in Positron / VS Code is super straightforward (see here). Click on the Extensions icon in the main Activity Bar, search for an extension, and click on “Install”. You can also disable or uninstall existing extensions from here.\n\n\n\n\n\n\n\n\n\nExtension page for StanOne of the best things about Positron is that it has access to most of VS Code’s extensions. Positron is not allowed to access Microsoft’s Visual Studio Extension Marketplace, but it can access (and is a major sponsor of) the alternative Open VSX Registry. With the exception of Microsoft’s extensions like GitHub Copilot, Dev Containers, and Remote - SSH, Open VSX had pretty much all the extensions that I already regularly use in VS Code.\nThe only minor VS Code extension I normally use that I couldn’t install in Positron was Stata Enhanced (Not that I even ever use Stata—I don’t have it installed on my computer and don’t have a license, but it’s nice to be able to open .do files and see syntax highlighting). Stata Enhanced isn’t listed at Open VSX, but I’ve opened an issue requesting that it gets listed.\nHere’s what I use:\n\nManaging other environments\n\nDocker: Manage Docker containers and volumes; right click on docker-compose.yml files to spin them up and shut them down; syntax highlighting for Dockerfiles and Docker Compose\nOpen Remote - SSH: Connect to remote servers with SSH. This is bundled with Positron and there’s no need to install anything.\n\nText editing\n\nRewrap: Automatically add line breaks in long comments or text (I have it set to wrap at 80 characters using ⌘⌥Q)\nBetter Comments: Add special syntax highlighting for some types of comments like TODO, ?, !, and so on\nShebang Snippets: Provides snippets for adding shebang directives (e.g. type #!python to get #!/usr/bin/env python)\n\nViewers and syntaxes\n\nExcel Viewer: View .xlsx files\nvscode-pdf: View PDFs\nRainbow CSV: Does neat syntax highlighting for CSV files (highlighting each column with specific colors)\nStan: Syntax highlighting for Stan\nYAML: Syntax highlighting for YAML\nLua: Syntax highlighting for Lua\nmarkdownlint: Linting and style suggestions for Markdown\n\nTheme stuff\n\nMaterial Icon Theme: Customize the icons associated with specific file types in the file explorer\nFluent Icons: Customize the icons in the general Positron app (primarily the icons in the Activity Bar, like Explorer, Search, Source Control, etc.)\n\n\n\nRemote connections with SSH\nOne of the best features of VS Code is its ability to connect to remote servers through SSH, but because that’s enabled with a special closed source Microsoft extension, it doesn’t work in Positron.\nThe Open Remote - SSH extension replicates Microsoft’s remote SSH extension, and it’s available at Open VSX. However, it doesn’t work with Positron immediately—you’ll get an error when connecting. This now works and there’s no need to install anything! (See this for a previous partial workaround.)\n\n\n\n\n\n\nAugust 2024 update!\n\n\n\nAs of August 2024, Positron now bundles an SSH extension that Just Works™. If you have R or Python installed on a remote server, you can connect to it and run code remotely and it’s all great and wonderful now.\n\n\n\n\n\nThings I still wish Positron could do\nPositron is still in beta and is undergoing rapid development, and that’s totally fine. Even though it’s not a finished product yet, it works really really well.\nThere are still some things I wish it could do though. Some of these will eventually be addressed; some can’t because of Microsoft.\n\nPackages panel: I love RStudio’s Packages panel. It’s so helpful for seeing which packages are currently installed, which versions are installed, updating existing packages, and installing new ones.\n\n\n\nRStudio’s Packages panel\n\n\nNothing like this exists for Positron right now, but there’s discussion about how to build something like it (that would also work for Python).\nPlot dimensions: (This will hopefully be addressed someday). In RStudio, when working with Quarto and R Markdown documents, inline images use the dimensions that you set in the chunk options, which makes it really easy to tinker with plot dimensions (i.e. changing from fig-width: 2.5 to fig-width: 2.75 to make sure labels fit in the plot area). Current, plots in Positron show up in the plots panel and use whatever dimensions that panel is set to use, either by manually resizing it or by using a dropdown menu with specific sizes:\n\n\n\nPositron’s plot panel\n\n\nIt would be cool if Positron’s plot panel could pick up the dimensions specified in a Quarto document and auto-resize to match. For now, I’ve just been using the “Custom Size” option. If I want to preview an image that’s 5 inches wide and 3.75 inches tall, I convert the ratio of width/height to pixels. It’s not exact—there are issues with different DPIs and retina screens—but it at least shows the correct proportion.\n\n\n\nCustom sizes in Positron’s plot panel\n\n\nRemote editing and execution with Open Remote - SSH: It would be incredible if (1) it were a lot easier to install Open Remote - SSH, and (2) it were possible to run code on remote servers. I think they’re working on supporting this.\nSimilar to this, but less important to me because I don’t use Docker containers this way, VS Code can work with Docker containers with the Dev Containers extension, similar to SSH, using Docker environments to run R/Python locally. They might be working on supporting this some day.\nGitHub Copilot Chat: Being able to chat with GitHub Copilot in VS Code is fantastic and it’s like only LLM thing I use. But it only works through a closed source extension by Microsoft and probably won’t ever work outside of VS Code proper.\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{heiss2024,\n  author = {Heiss, Andrew},\n  title = {Fun with {Positron}},\n  date = {2024-07-08},\n  url = {https://robustecologies.org/blog/2024/07/08/fun-with-positron/},\n  doi = {10.59350/zs7da-17c67},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nHeiss, Andrew. 2024. “Fun with Positron.” July 8, 2024. https://doi.org/10.59350/zs7da-17c67."
   }
 ]
